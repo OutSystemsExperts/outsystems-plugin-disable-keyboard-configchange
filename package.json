@@ -1,0 +1,21 @@
+{
+  "name": "outsystems-plugin-disable-keyboard-configchange",
+  "version": "1.0.0",
+  "description": "Changes AndroidManifest.xml to disable auto configuration changes when connecting/disabling the physical keyboard.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutSystemsExperts/outsystems-plugin-disable-keyboard-configchange.git"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "João Gonçalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutSystemsExperts/outsystems-plugin-disable-keyboard-configchange.git/issues"
+  },
+  "homepage": "https://github.com/OutSystemsExperts/outsystems-plugin-disable-keyboard-configchange.git#readme"
+}
