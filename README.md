@@ -1,4 +1,4 @@
-# outsystems-plugin-disable-backup
+# outsystems-plugin-disable-keyboard-configchange
 
 Changes AndroidManifest.xml to disable Android configuration changes when connecting/disconnecting an external keyboard.
 
